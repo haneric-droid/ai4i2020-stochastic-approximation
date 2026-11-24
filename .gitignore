@@ -1,0 +1,8 @@
+# 논문 원문 PDF는 저작권 보호 대상이라 공개 저장소에 올리지 않음
+*.pdf
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
